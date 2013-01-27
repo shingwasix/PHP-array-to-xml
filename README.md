@@ -6,7 +6,7 @@ convert array to xml on php.
 You can use it like that
 
 <?php<br/>
-require_once("../../private/class/A2Xml.php");<br/>
+require_once("A2Xml.php");<br/>
 <br/>
 @header("Content-type:application/xml");<br/>
 <br/>
